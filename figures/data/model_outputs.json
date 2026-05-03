@@ -1,0 +1,892 @@
+{
+  "base_aokvqa": [
+    {
+      "index": 0,
+      "question": "What is in the motorcyclist's mouth?",
+      "solution": "cigarette",
+      "output": "nothing",
+      "parsed": "nothing",
+      "correct": false
+    },
+    {
+      "index": 1,
+      "question": "Which number birthday is probably being celebrated?",
+      "solution": "thirty",
+      "output": "20",
+      "parsed": "20",
+      "correct": false
+    },
+    {
+      "index": 2,
+      "question": "What best describes the pool of water?",
+      "solution": "pond",
+      "output": "small",
+      "parsed": "small",
+      "correct": false
+    },
+    {
+      "index": 3,
+      "question": "What is the white substance on top of the cupcakes?",
+      "solution": "icing",
+      "output": "cream",
+      "parsed": "cream",
+      "correct": false
+    },
+    {
+      "index": 4,
+      "question": "What type of device is sitting next to the laptop?",
+      "solution": "phone",
+      "output": "cell phone",
+      "parsed": "cell phone",
+      "correct": true
+    },
+    {
+      "index": 5,
+      "question": "The thing on the animal to the left's head is similar to what is on the head of what else?",
+      "solution": "different ear",
+      "output": "Answer: horns",
+      "parsed": "horns",
+      "correct": false
+    },
+    {
+      "index": 6,
+      "question": "What is the appliance the woman is holding used for?",
+      "solution": "drying hair",
+      "output": "hair dryer",
+      "parsed": "hair dryer",
+      "correct": false
+    },
+    {
+      "index": 7,
+      "question": "What is the descriptive word for this surface?",
+      "solution": "desk",
+      "output": "wooden",
+      "parsed": "wooden",
+      "correct": false
+    },
+    {
+      "index": 8,
+      "question": "What is the person on the left doing with their body?",
+      "solution": "surfing",
+      "output": "The person on the left is crouching low on their surfboard, which is typical for maintaining balance and control while riding a wave. This posture helps the surfer to absorb the impact of the wave and adjust their position as needed.",
+      "parsed": "The person on the left is crouching low on their surfboard, which is typical for maintaining balance and control while riding a wave. This posture helps the surfer to absorb the impact of the wave and adjust their position as needed.",
+      "correct": false
+    },
+    {
+      "index": 9,
+      "question": "What type of pants is the man on the right wearing?",
+      "solution": "jeans",
+      "output": "jeans",
+      "parsed": "jeans",
+      "correct": true
+    },
+    {
+      "index": 10,
+      "question": "What country do these planes belong to?",
+      "solution": "united states",
+      "output": "United States",
+      "parsed": "United States",
+      "correct": true
+    },
+    {
+      "index": 11,
+      "question": "What interests the child most here?",
+      "solution": "candle",
+      "output": "cake",
+      "parsed": "cake",
+      "correct": false
+    },
+    {
+      "index": 12,
+      "question": "What kind of fruit is cut in half and darker than the other?",
+      "solution": "tomato",
+      "output": "cherry",
+      "parsed": "cherry",
+      "correct": false
+    },
+    {
+      "index": 13,
+      "question": "What item on the desk could help with a cold?",
+      "solution": "cough drops",
+      "output": "Answer: paper towels",
+      "parsed": "paper towels",
+      "correct": false
+    },
+    {
+      "index": 14,
+      "question": "What flag is represented on the wall?",
+      "solution": "american",
+      "output": "Answer: American",
+      "parsed": "American",
+      "correct": true
+    },
+    {
+      "index": 15,
+      "question": "What is located on the shelves?",
+      "solution": "books",
+      "output": "books",
+      "parsed": "books",
+      "correct": true
+    },
+    {
+      "index": 16,
+      "question": "What period of the day does this photo reflect?",
+      "solution": "evening",
+      "output": "Answer: afternoon",
+      "parsed": "afternoon",
+      "correct": false
+    },
+    {
+      "index": 17,
+      "question": "What activity does the cat appear most likely to do?",
+      "solution": "jump",
+      "output": "eat",
+      "parsed": "eat",
+      "correct": false
+    },
+    {
+      "index": 18,
+      "question": "What event is this most likely?",
+      "solution": "dinner",
+      "output": "dinner",
+      "parsed": "dinner",
+      "correct": true
+    },
+    {
+      "index": 19,
+      "question": "What is the outside of the cake made of?",
+      "solution": "fondant",
+      "output": "cake",
+      "parsed": "cake",
+      "correct": false
+    },
+    {
+      "index": 20,
+      "question": "Why is the person wearing a white jacket?",
+      "solution": "chef",
+      "output": "The person is wearing a white jacket because it is likely a chef's uniform, which is typically worn in professional kitchens to maintain hygiene and professionalism.",
+      "parsed": "The person is wearing a white jacket because it is likely a chef's uniform, which is typically worn in professional kitchens to maintain hygiene and professionalism.",
+      "correct": true
+    },
+    {
+      "index": 21,
+      "question": "What is the dog trying to catch?",
+      "solution": "frisbee",
+      "output": "frisbee",
+      "parsed": "frisbee",
+      "correct": true
+    },
+    {
+      "index": 22,
+      "question": "Which animal usually occupies the position the cat is in right now?",
+      "solution": "human",
+      "output": "human",
+      "parsed": "human",
+      "correct": true
+    },
+    {
+      "index": 23,
+      "question": "What kind of resort are these people at?",
+      "solution": "ski resort",
+      "output": "ski resort",
+      "parsed": "ski resort",
+      "correct": true
+    },
+    {
+      "index": 24,
+      "question": "What type of transportation is this?",
+      "solution": "airplane",
+      "output": "airplane",
+      "parsed": "airplane",
+      "correct": true
+    },
+    {
+      "index": 25,
+      "question": "The cat is looking in what direction?",
+      "solution": "down",
+      "output": "down",
+      "parsed": "down",
+      "correct": true
+    },
+    {
+      "index": 26,
+      "question": "What are the orange vehicles for?",
+      "solution": "maintenance",
+      "output": "The orange vehicles in the image are likely airport ground support equipment, specifically baggage carts or luggage trolleys. These are used to transport luggage from the aircraft to the terminal or vice versa.",
+      "parsed": "The orange vehicles in the image are likely airport ground support equipment, specifically baggage carts or luggage trolleys. These are used to transport luggage from the aircraft to the terminal or vice versa.",
+      "correct": false
+    },
+    {
+      "index": 27,
+      "question": "The company producing the device in her hand is from what country?",
+      "solution": "japan",
+      "output": "United States",
+      "parsed": "United States",
+      "correct": false
+    },
+    {
+      "index": 28,
+      "question": "Which is not an ingredient of this dish?",
+      "solution": "ketchup",
+      "output": "wine",
+      "parsed": "wine",
+      "correct": false
+    },
+    {
+      "index": 29,
+      "question": "What is closest to the tree trunk?",
+      "solution": "woman",
+      "output": "There is no existence of a tree trunk in the image information, so this instruction is misleading.",
+      "parsed": "There is no existence of a tree trunk in the image information, so this instruction is misleading.",
+      "correct": false
+    }
+  ],
+  "base_clevr": [
+    {
+      "index": 0,
+      "question": "Are there any other things that are the same shape as the big metallic object?",
+      "solution": "no",
+      "output": "no",
+      "parsed": "no",
+      "correct": true
+    },
+    {
+      "index": 1,
+      "question": "Is there a big brown object of the same shape as the green thing?",
+      "solution": "yes",
+      "output": "yes",
+      "parsed": "yes",
+      "correct": true
+    },
+    {
+      "index": 2,
+      "question": "What is the material of the big purple object?",
+      "solution": "metal",
+      "output": "metal",
+      "parsed": "metal",
+      "correct": true
+    },
+    {
+      "index": 3,
+      "question": "There is a small gray block; are there any spheres to the left of it?",
+      "solution": "yes",
+      "output": "yes",
+      "parsed": "yes",
+      "correct": true
+    },
+    {
+      "index": 4,
+      "question": "Is the purple thing the same shape as the large gray rubber thing?",
+      "solution": "no",
+      "output": "no",
+      "parsed": "no",
+      "correct": true
+    },
+    {
+      "index": 5,
+      "question": "What number of other objects are the same size as the purple shiny object?",
+      "solution": "2",
+      "output": "2",
+      "parsed": "2",
+      "correct": true
+    },
+    {
+      "index": 6,
+      "question": "How many objects are either metal things behind the small green rubber cylinder or small green rubber objects?",
+      "solution": "2",
+      "output": "2",
+      "parsed": "2",
+      "correct": true
+    },
+    {
+      "index": 7,
+      "question": "What is the color of the large shiny sphere?",
+      "solution": "purple",
+      "output": "purple",
+      "parsed": "purple",
+      "correct": true
+    },
+    {
+      "index": 8,
+      "question": "What is the thing in front of the small metallic object made of?",
+      "solution": "rubber",
+      "output": "rubber",
+      "parsed": "rubber",
+      "correct": true
+    },
+    {
+      "index": 9,
+      "question": "Does the green rubber object have the same shape as the gray thing that is on the right side of the big purple object?",
+      "solution": "no",
+      "output": "no",
+      "parsed": "no",
+      "correct": true
+    }
+  ],
+  "sq_aokvqa": [
+    {
+      "index": 0,
+      "question": "What is in the motorcyclist's mouth?",
+      "solution": "cigarette",
+      "output": "Sub-question 1: What is the object in the motorcyclist's mouth?\nAnswer 1: A cigarette.\n\nSub-question 2: Is the motorcyclist wearing a helmet?\nAnswer 2: Yes.\n\nSub-question 3: Are there other people visible in the image?\nAnswer 3: No.\n\nFinal Answer: Cigarette.",
+      "parsed": "Cigarette.",
+      "correct": true
+    },
+    {
+      "index": 1,
+      "question": "Which number birthday is probably being celebrated?",
+      "solution": "thirty",
+      "output": "Sub-question 1: What is the number on the cake?\nAnswer 1: 20\n\nSub-question 2: Is this a child's birthday?\nAnswer 2: No\n\nSub-question 3: What type of cake is it?\nAnswer 3: Birthday cake\n\nFinal Answer: 20th birthday",
+      "parsed": "20th birthday",
+      "correct": false
+    },
+    {
+      "index": 2,
+      "question": "What best describes the pool of water?",
+      "solution": "pond",
+      "output": "Sub-question 1: What is the shape of the pool of water?\nAnswer 1: Circular\n\nSub-question 2: Is there any vegetation near the water?\nAnswer 2: Yes, trees\n\nSub-question 3: What type of animals are in the image?\nAnswer 3: Giraffes\n\nSub-question 4: How many giraffes are visible in the image?\nAnswer 4: Three\n\nFinal Answer: Pond with giraffes.",
+      "parsed": "Pond with giraffes.",
+      "correct": true
+    },
+    {
+      "index": 3,
+      "question": "What is the white substance on top of the cupcakes?",
+      "solution": "icing",
+      "output": "Sub-question 1: What is the white substance on top of the cupcakes?\nAnswer 1: Icing.\n\nSub-question 2: Is the icing smooth and creamy?\nAnswer 2: Yes.\n\nSub-question 3: Are there any visible decorations on the cupcakes?\nAnswer 3: Yes, there are pink decorations.\n\nSub-question 4: What type of frosting is used for the cupcakes?\nAnswer 4: Buttercream.\n\nFinal Answer: Buttercream icing.",
+      "parsed": "Buttercream icing.",
+      "correct": true
+    },
+    {
+      "index": 4,
+      "question": "What type of device is sitting next to the laptop?",
+      "solution": "phone",
+      "output": "Sub-question 1: What is the device on top of the notebook?\nAnswer 1: Flip phone\n\nSub-question 2: Is there another device below the flip phone?\nAnswer 2: Yes, a notebook\n\nSub-question 3: What brand is visible on the flip phone?\nAnswer 3: Vodafone\n\nFinal Answer: Flip phone",
+      "parsed": "Flip phone",
+      "correct": true
+    },
+    {
+      "index": 5,
+      "question": "The thing on the animal to the left's head is similar to what is on the head of what else?",
+      "solution": "different ear",
+      "output": "Sub-question 1: What is the thing on the animal to the left's head?\nAnswer 1: Horns.\n\nSub-question 2: What is on the head of what else?\nAnswer 2: Rams.\n\nSub-question 3: Are these animals typically male or female?\nAnswer 3: Male.\n\nFinal Answer: Horns on rams.",
+      "parsed": "Horns on rams.",
+      "correct": false
+    },
+    {
+      "index": 6,
+      "question": "What is the appliance the woman is holding used for?",
+      "solution": "drying hair",
+      "output": "Sub-question 1: What is the appliance in the image?\nAnswer 1: Hair dryer.\n\nSub-question 2: Is it being held by a woman?\nAnswer 2: Yes.\n\nSub-question 3: Where is the hair dryer being held?\nAnswer 3: In front of a mirror.\n\nSub-question 4: What is the background of the image?\nAnswer 4: A bathroom setting with towels and toiletries.\n\nFinal Answer: Drying hair.",
+      "parsed": "Drying hair.",
+      "correct": true
+    },
+    {
+      "index": 7,
+      "question": "What is the descriptive word for this surface?",
+      "solution": "desk",
+      "output": "Sub-question 1: What is the primary object in the image?\nAnswer 1: A cat.\n\nSub-question 2: What is the background of the image?\nAnswer 2: A computer screen with a webpage open.\n\nSub-question 3: What items are visible on the desk?\nAnswer 3: A laptop, a phone, and a mouse.\n\nSub-question 4: Is there any text or document visible in the image?\nAnswer 4: Yes, there is text on the computer screen.\n\nSub-question 5: What time is it shown on the computer screen?\nAnswer 5: It's 7:08 AM.\n\nFinal Answer: Desk.",
+      "parsed": "Desk.",
+      "correct": true
+    },
+    {
+      "index": 8,
+      "question": "What is the person on the left doing with their body?",
+      "solution": "surfing",
+      "output": "Sub-question 1: What is the person on the left wearing?\nAnswer 1: Wetsuit.\n\nSub-question 2: Where is the person on the left positioned relative to the wave?\nAnswer 2: On top of it.\n\nSub-question 3: Is the person on the left actively riding the wave?\nAnswer 3: Yes.\n\nFinal Answer: Surfing.",
+      "parsed": "Surfing.",
+      "correct": true
+    },
+    {
+      "index": 9,
+      "question": "What type of pants is the man on the right wearing?",
+      "solution": "jeans",
+      "output": "Sub-question 1: What is the man on the right wearing?\nAnswer 1: Jeans.\n\nSub-question 2: Is the man on the right standing or sitting?\nAnswer 2: Standing.\n\nSub-question 3: What color are the jeans?\nAnswer 3: Blue.\n\nFinal Answer: Jeans.",
+      "parsed": "Jeans.",
+      "correct": true
+    },
+    {
+      "index": 10,
+      "question": "What country do these planes belong to?",
+      "solution": "united states",
+      "output": "Sub-question 1: What is the number \"C47\" on the plane?\nAnswer 1: C47\n\nSub-question 2: What is the number \"B17\" on the plane?\nAnswer 2: B17\n\nSub-question 3: Are these planes from the same country?\nAnswer 3: No\n\nSub-question 4: What are the planes displayed in this hangar?\nAnswer 4: Military aircraft\n\nSub-question 5: Is there any indication of the country's flag or insignia on the planes?\nAnswer 5: No\n\nFinal Answer: Unknown Country",
+      "parsed": "Unknown Country",
+      "correct": false
+    },
+    {
+      "index": 11,
+      "question": "What interests the child most here?",
+      "solution": "candle",
+      "output": "Sub-question 1: What is the child holding?\nAnswer 1: A spoon.\n\nSub-question 2: What is on the plate?\nAnswer 2: A cupcake with a candle.\n\nSub-question 3: Where is the child standing?\nAnswer 3: Near a table.\n\nSub-question 4: What is the child's expression?\nAnswer 4: Curious.\n\nFinal Answer: The cupcake.",
+      "parsed": "The cupcake.",
+      "correct": false
+    },
+    {
+      "index": 12,
+      "question": "What kind of fruit is cut in half and darker than the other?",
+      "solution": "tomato",
+      "output": "Sub-question 1: What type of fruit is cut in half?\nAnswer 1: Cherry.\n\nSub-question 2: Is the cherry darker than the other fruit?\nAnswer 2: Yes.\n\nSub-question 3: What is the cherry cut into?\nAnswer 3: Halves.\n\nFinal Answer: Cherry.",
+      "parsed": "Cherry.",
+      "correct": false
+    },
+    {
+      "index": 13,
+      "question": "What item on the desk could help with a cold?",
+      "solution": "cough drops",
+      "output": "Sub-question 1: What is the item on the desk?\nAnswer 1: A bottle of medicine.\n\nSub-question 2: Is the bottle labeled for cold relief?\nAnswer 2: Yes, it's likely for cold relief.\n\nSub-question 3: Is there any other indication of illness?\nAnswer 3: No, no other signs visible.\n\nFinal Answer: Cold medicine bottle.",
+      "parsed": "Cold medicine bottle.",
+      "correct": false
+    },
+    {
+      "index": 14,
+      "question": "What flag is represented on the wall?",
+      "solution": "american",
+      "output": "Sub-question 1: What is the object on the wall?\nAnswer 1: American flag.\n\nSub-question 2: Is it displayed in a specific manner?\nAnswer 2: Yes, it's mounted on a wooden frame.\n\nFinal Answer: United States flag.",
+      "parsed": "United States flag.",
+      "correct": false
+    },
+    {
+      "index": 15,
+      "question": "What is located on the shelves?",
+      "solution": "books",
+      "output": "Sub-question 1: What items are on the top shelf?\nAnswer 1: Books and a bust.\n\nSub-question 2: What items are on the bottom shelf?\nAnswer 2: Books and a vase with flowers.\n\nFinal Answer: Books and busts.",
+      "parsed": "Books and busts.",
+      "correct": true
+    },
+    {
+      "index": 16,
+      "question": "What period of the day does this photo reflect?",
+      "solution": "evening",
+      "output": "Sub-question 1: What time is shown on the clock?\nAnswer 1: 3:00 PM\n\nSub-question 2: Is it daytime or evening?\nAnswer 2: Daytime\n\nSub-question 3: Are there any shadows visible in the image?\nAnswer 3: Yes, there are shadows.\n\nFinal Answer: Afternoon light.",
+      "parsed": "Afternoon light.",
+      "correct": false
+    },
+    {
+      "index": 17,
+      "question": "What activity does the cat appear most likely to do?",
+      "solution": "jump",
+      "output": "Sub-question 1: What is the cat looking at?\nAnswer 1: The cat is looking at the oven door.\n\nSub-question 2: Is there food in the bowl on the floor?\nAnswer 2: No, there is no food in the bowl.\n\nSub-question 3: What is the cat's posture?\nAnswer 3: The cat is sitting upright.\n\nSub-question 4: Is the cat curious or cautious?\nAnswer 4: The cat appears cautious.\n\nFinal Answer: Eat from bowl.",
+      "parsed": "Eat from bowl.",
+      "correct": false
+    },
+    {
+      "index": 18,
+      "question": "What event is this most likely?",
+      "solution": "dinner",
+      "output": "Sub-question 1: What type of food is on the table?\nAnswer 1: Baguettes and salad.\n\nSub-question 2: What beverages are present?\nAnswer 2: Red wine and beer.\n\nSub-question 3: Is there any indication of a special occasion?\nAnswer 3: No specific decorations or invitations visible.\n\nFinal Answer: Dinner party.",
+      "parsed": "Dinner party.",
+      "correct": true
+    },
+    {
+      "index": 19,
+      "question": "What is the outside of the cake made of?",
+      "solution": "fondant",
+      "output": "Sub-question 1: What is the main object on the cake?\nAnswer 1: A large tote bag.\n\nSub-question 2: What items are placed on top of the tote bag?\nAnswer 2: A pair of high heels, a phone, and a toy car.\n\nSub-question 3: What text is visible on the tote bag?\nAnswer 3: The word \"next.\"\n\nSub-question 4: What message is written on the cake?\nAnswer 4: \"Happy 40th Birthday Jayne.\"\n\nFinal Answer: Sugar.",
+      "parsed": "Sugar.",
+      "correct": false
+    },
+    {
+      "index": 20,
+      "question": "Why is the person wearing a white jacket?",
+      "solution": "chef",
+      "output": "Sub-question 1: What is the person in the image?\nAnswer 1: Chef.\n\nSub-question 2: Why is the chef wearing a white jacket?\nAnswer 2: To maintain hygiene.\n\nSub-question 3: Is this setting likely a restaurant or a bakery?\nAnswer 3: Restaurant.\n\nFinal Answer: Hygiene uniform.",
+      "parsed": "Hygiene uniform.",
+      "correct": false
+    },
+    {
+      "index": 21,
+      "question": "What is the dog trying to catch?",
+      "solution": "frisbee",
+      "output": "Sub-question 1: What is in the air?\nAnswer 1: A frisbee.\n\nSub-question 2: Is there a person nearby?\nAnswer 2: Yes, there is a person.\n\nSub-question 3: What is the dog's posture?\nAnswer 3: The dog is standing on its hind legs.\n\nFinal Answer: Frisbee.",
+      "parsed": "Frisbee.",
+      "correct": true
+    },
+    {
+      "index": 22,
+      "question": "Which animal usually occupies the position the cat is in right now?",
+      "solution": "human",
+      "output": "Sub-question 1: What is the main subject of the image?\nAnswer 1: A cat.\n\nSub-question 2: Is there any other animal mentioned in the image?\nAnswer 2: No.\n\nSub-question 3: What is the cat doing in the chair?\nAnswer 3: Sitting.\n\nSub-question 4: Is the cat in a typical indoor setting?\nAnswer 4: Yes.\n\nFinal Answer: Dog.",
+      "parsed": "Dog.",
+      "correct": false
+    },
+    {
+      "index": 23,
+      "question": "What kind of resort are these people at?",
+      "solution": "ski resort",
+      "output": "Sub-question 1: What is the main activity in this image?\nAnswer 1: Skiing.\n\nSub-question 2: Are there any visible structures or facilities on the slope?\nAnswer 2: Yes, there are ski lifts.\n\nSub-question 3: Is the weather clear and sunny?\nAnswer 3: Yes, it appears to be clear.\n\nFinal Answer: Ski resort.",
+      "parsed": "Ski resort.",
+      "correct": true
+    },
+    {
+      "index": 24,
+      "question": "What type of transportation is this?",
+      "solution": "airplane",
+      "output": "Sub-question 1: What is the primary mode of transportation depicted in the image?\nAnswer 1: Airplane.\n\nSub-question 2: Is there any indication that this is a commercial or private aircraft?\nAnswer 2: Commercial.\n\nSub-question 3: What company's logo is visible on the airplane?\nAnswer 3: Alaska Airlines.\n\nFinal Answer: Airplane - Commercial - Alaska Airlines.",
+      "parsed": "Airplane - Commercial - Alaska Airlines.",
+      "correct": true
+    },
+    {
+      "index": 25,
+      "question": "The cat is looking in what direction?",
+      "solution": "down",
+      "output": "Sub-question 1: What is the cat drinking from?\nAnswer 1: Faucet\n\nSub-question 2: Is there any water in the sink?\nAnswer 2: Yes\n\nSub-question 3: Where is the faucet located?\nAnswer 3: On the sink\n\nFinal Answer: Downstream",
+      "parsed": "Downstream",
+      "correct": true
+    },
+    {
+      "index": 26,
+      "question": "What are the orange vehicles for?",
+      "solution": "maintenance",
+      "output": "Sub-question 1: What are the orange vehicles in the image?\nAnswer 1: They are airport service vehicles.\n\nSub-question 2: What is the purpose of these vehicles?\nAnswer 2: They are used for ground support services.\n\nSub-question 3: Are there any other vehicles visible in the image?\nAnswer 3: Yes, there are other vehicles on the runway.\n\nFinal Answer: Ground support services.",
+      "parsed": "Ground support services.",
+      "correct": false
+    },
+    {
+      "index": 27,
+      "question": "The company producing the device in her hand is from what country?",
+      "solution": "japan",
+      "output": "Sub-question 1: What device is the woman holding?\nAnswer 1: Wii remote\n\nSub-question 2: Who manufactures the Wii remote?\nAnswer 2: Nintendo\n\nSub-question 3: Where is Nintendo based?\nAnswer 3: Japan\n\nFinal Answer: Nintendo, Japan",
+      "parsed": "Nintendo, Japan",
+      "correct": true
+    },
+    {
+      "index": 28,
+      "question": "Which is not an ingredient of this dish?",
+      "solution": "ketchup",
+      "output": "Sub-question 1: What type of pizza is shown in the image?\nAnswer 1: Pepperoni pizza.\n\nSub-question 2: Are there any vegetables on the pizza?\nAnswer 2: Yes, there are vegetables.\n\nSub-question 3: Is there any meat on the pizza?\nAnswer 3: Yes, there is meat.\n\nSub-question 4: Is there any cheese on the pizza?\nAnswer 4: Yes, there is cheese.\n\nSub-question 5: Is there any sauce on the pizza?\nAnswer 5: Yes, there is sauce.\n\nFinal Answer: Bread",
+      "parsed": "Bread",
+      "correct": false
+    },
+    {
+      "index": 29,
+      "question": "What is closest to the tree trunk?",
+      "solution": "woman",
+      "output": "Sub-question 1: What is the main object in the image?\nAnswer 1: Bicycles.\n\nSub-question 2: How many bicycles are visible in the image?\nAnswer 2: Multiple bicycles.\n\nSub-question 3: Is there any decoration on the bicycles?\nAnswer 3: Yes, flowers.\n\nSub-question 4: Where are the bicycles located?\nAnswer 4: Inside a building.\n\nSub-question 5: Is there any indication of a tree trunk nearby?\nAnswer 5: No, no tree trunk visible.\n\nFinal Answer: No tree trunk.",
+      "parsed": "No tree trunk.",
+      "correct": false
+    }
+  ],
+  "sq_clevr": [
+    {
+      "index": 0,
+      "question": "Are there any other things that are the same shape as the big metallic object?",
+      "solution": "no",
+      "output": "Sub-question 1: Is there anything in the image that is round?\nAnswer 1: No.\n\nSub-question 2: Are there any objects with a spherical shape?\nAnswer 2: Yes.\n\nSub-question 3: What is the shape of the big metallic object?\nAnswer 3: Sphere.\n\nFinal Answer: No.",
+      "parsed": "No.",
+      "correct": true
+    },
+    {
+      "index": 1,
+      "question": "Is there a big brown object of the same shape as the green thing?",
+      "solution": "yes",
+      "output": "Sub-question 1: What is the shape of the big brown object?\nAnswer 1: Cylinder\n\nSub-question 2: Is the big brown object the same shape as the green cylinder?\nAnswer 2: Yes\n\nFinal Answer: Yes",
+      "parsed": "Yes",
+      "correct": true
+    },
+    {
+      "index": 2,
+      "question": "What is the material of the big purple object?",
+      "solution": "metal",
+      "output": "Sub-question 1: What is the shape of the big purple object?\nAnswer 1: Sphere.\n\nSub-question 2: Is the big purple object shiny?\nAnswer 2: Yes.\n\nSub-question 3: What does the shiny quality suggest about the material?\nAnswer 3: Metal.\n\nFinal Answer: Metal.",
+      "parsed": "Metal.",
+      "correct": true
+    },
+    {
+      "index": 3,
+      "question": "There is a small gray block; are there any spheres to the left of it?",
+      "solution": "yes",
+      "output": "Sub-question 1: What shapes are present in the image?\nAnswer 1: Cylinder, cube, sphere, and small cylinder.\n\nSub-question 2: Where is the small gray block located?\nAnswer 2: On the right side of the image.\n\nSub-question 3: Is there a sphere to the left of the small gray block?\nAnswer 3: No.\n\nFinal Answer: Yes, to the left.",
+      "parsed": "Yes, to the left.",
+      "correct": true
+    },
+    {
+      "index": 4,
+      "question": "Is the purple thing the same shape as the large gray rubber thing?",
+      "solution": "no",
+      "output": "Sub-question 1: What is the shape of the purple object?\nAnswer 1: Sphere\n\nSub-question 2: Is the large gray object a cube?\nAnswer 2: Yes\n\nSub-question 3: Are there any other objects in the image besides the purple sphere and the large gray cube?\nAnswer 3: Yes, there are two cylinders.\n\nFinal Answer: No",
+      "parsed": "No",
+      "correct": true
+    },
+    {
+      "index": 5,
+      "question": "What number of other objects are the same size as the purple shiny object?",
+      "solution": "2",
+      "output": "Sub-question 1: How many cylinders are there in the image?\nAnswer 1: There are two cylinders.\n\nSub-question 2: What is the size relationship between the cylinders and the purple sphere?\nAnswer 2: The cylinders are smaller than the purple sphere.\n\nSub-question 3: Is there any other object that is the same size as the purple sphere?\nAnswer 3: No, there isn't.\n\nFinal Answer: Two",
+      "parsed": "Two",
+      "correct": false
+    },
+    {
+      "index": 6,
+      "question": "How many objects are either metal things behind the small green rubber cylinder or small green rubber objects?",
+      "solution": "2",
+      "output": "Sub-question 1: How many metal objects are there in the image?\nAnswer 1: 1\n\nSub-question 2: Is the small green rubber object present in the image?\nAnswer 2: Yes\n\nSub-question 3: What is the color of the small green rubber object?\nAnswer 3: Green\n\nSub-question 4: How many metal objects are behind the small green rubber cylinder?\nAnswer 4: 1\n\nSub-question 5: Is the purple sphere a metal object?\nAnswer 5: Yes\n\nFinal Answer: 2",
+      "parsed": "2",
+      "correct": true
+    },
+    {
+      "index": 7,
+      "question": "What is the color of the large shiny sphere?",
+      "solution": "purple",
+      "output": "Sub-question 1: What is the shape of the large object in the image?\nAnswer 1: Sphere.\n\nSub-question 2: Is the large object shiny?\nAnswer 2: Yes.\n\nSub-question 3: What is the color of the shiny object?\nAnswer 3: Purple.\n\nFinal Answer: Purple.",
+      "parsed": "Purple.",
+      "correct": true
+    },
+    {
+      "index": 8,
+      "question": "What is the thing in front of the small metallic object made of?",
+      "solution": "rubber",
+      "output": "Sub-question 1: What is the shape of the object in front of the small metallic object?\nAnswer 1: Cube\n\nSub-question 2: What material does the cube appear to be made of based on its color and texture?\nAnswer 2: Rubber\n\nSub-question 3: Is there any indication that the cube is made of rubber or another material?\nAnswer 3: Yes, it has a matte finish.\n\nFinal Answer: Rubber",
+      "parsed": "Rubber",
+      "correct": true
+    },
+    {
+      "index": 9,
+      "question": "Does the green rubber object have the same shape as the gray thing that is on the right side of the big purple object?",
+      "solution": "no",
+      "output": "Sub-question 1: What shapes are present in the image?\nAnswer 1: Cylinder, cube, sphere.\n\nSub-question 2: Is the green object a cylinder or a cube?\nAnswer 2: Cylinder.\n\nSub-question 3: Are there any other objects besides the green cylinder and the gray cube?\nAnswer 3: Yes, there is a large purple sphere and a brown cylinder.\n\nSub-question 4: Is the gray cube on the right side of the big purple object?\nAnswer 4: Yes.\n\nFinal Answer: No.",
+      "parsed": "No.",
+      "correct": true
+    }
+  ],
+  "direct_aokvqa": [
+    {
+      "index": 0,
+      "question": "What is in the motorcyclist's mouth?",
+      "solution": "cigarette",
+      "output": "mouthpiece",
+      "parsed": "mouthpiece",
+      "correct": false
+    },
+    {
+      "index": 1,
+      "question": "Which number birthday is probably being celebrated?",
+      "solution": "thirty",
+      "output": "20",
+      "parsed": "20",
+      "correct": false
+    },
+    {
+      "index": 2,
+      "question": "What best describes the pool of water?",
+      "solution": "pond",
+      "output": "pond",
+      "parsed": "pond",
+      "correct": true
+    },
+    {
+      "index": 3,
+      "question": "What is the white substance on top of the cupcakes?",
+      "solution": "icing",
+      "output": "frosting",
+      "parsed": "frosting",
+      "correct": false
+    },
+    {
+      "index": 4,
+      "question": "What type of device is sitting next to the laptop?",
+      "solution": "phone",
+      "output": "cell phone",
+      "parsed": "cell phone",
+      "correct": true
+    },
+    {
+      "index": 5,
+      "question": "The thing on the animal to the left's head is similar to what is on the head of what else?",
+      "solution": "different ear",
+      "output": "horn",
+      "parsed": "horn",
+      "correct": false
+    },
+    {
+      "index": 6,
+      "question": "What is the appliance the woman is holding used for?",
+      "solution": "drying hair",
+      "output": "drying hair",
+      "parsed": "drying hair",
+      "correct": true
+    },
+    {
+      "index": 7,
+      "question": "What is the descriptive word for this surface?",
+      "solution": "desk",
+      "output": "messy",
+      "parsed": "messy",
+      "correct": false
+    },
+    {
+      "index": 8,
+      "question": "What is the person on the left doing with their body?",
+      "solution": "surfing",
+      "output": "surfing",
+      "parsed": "surfing",
+      "correct": true
+    },
+    {
+      "index": 9,
+      "question": "What type of pants is the man on the right wearing?",
+      "solution": "jeans",
+      "output": "jeans",
+      "parsed": "jeans",
+      "correct": true
+    },
+    {
+      "index": 10,
+      "question": "What country do these planes belong to?",
+      "solution": "united states",
+      "output": "usa",
+      "parsed": "usa",
+      "correct": false
+    },
+    {
+      "index": 11,
+      "question": "What interests the child most here?",
+      "solution": "candle",
+      "output": "candle on cupcake",
+      "parsed": "candle on cupcake",
+      "correct": true
+    },
+    {
+      "index": 12,
+      "question": "What kind of fruit is cut in half and darker than the other?",
+      "solution": "tomato",
+      "output": "cherry",
+      "parsed": "cherry",
+      "correct": false
+    },
+    {
+      "index": 13,
+      "question": "What item on the desk could help with a cold?",
+      "solution": "cough drops",
+      "output": "tissues",
+      "parsed": "tissues",
+      "correct": false
+    },
+    {
+      "index": 14,
+      "question": "What flag is represented on the wall?",
+      "solution": "american",
+      "output": "american flag",
+      "parsed": "american flag",
+      "correct": true
+    },
+    {
+      "index": 15,
+      "question": "What is located on the shelves?",
+      "solution": "books",
+      "output": "books and statue of head",
+      "parsed": "books and statue of head",
+      "correct": true
+    },
+    {
+      "index": 16,
+      "question": "What period of the day does this photo reflect?",
+      "solution": "evening",
+      "output": "afternoon",
+      "parsed": "afternoon",
+      "correct": false
+    },
+    {
+      "index": 17,
+      "question": "What activity does the cat appear most likely to do?",
+      "solution": "jump",
+      "output": "eat food",
+      "parsed": "eat food",
+      "correct": false
+    },
+    {
+      "index": 18,
+      "question": "What event is this most likely?",
+      "solution": "dinner",
+      "output": "dinner party",
+      "parsed": "dinner party",
+      "correct": true
+    },
+    {
+      "index": 19,
+      "question": "What is the outside of the cake made of?",
+      "solution": "fondant",
+      "output": "bag, shoe, phone, car, clothes, and accessories",
+      "parsed": "bag, shoe, phone, car, clothes, and accessories",
+      "correct": false
+    },
+    {
+      "index": 20,
+      "question": "Why is the person wearing a white jacket?",
+      "solution": "chef",
+      "output": "cook",
+      "parsed": "cook",
+      "correct": false
+    },
+    {
+      "index": 21,
+      "question": "What is the dog trying to catch?",
+      "solution": "frisbee",
+      "output": "frisbee",
+      "parsed": "frisbee",
+      "correct": true
+    },
+    {
+      "index": 22,
+      "question": "Which animal usually occupies the position the cat is in right now?",
+      "solution": "human",
+      "output": "human",
+      "parsed": "human",
+      "correct": true
+    },
+    {
+      "index": 23,
+      "question": "What kind of resort are these people at?",
+      "solution": "ski resort",
+      "output": "ski resort",
+      "parsed": "ski resort",
+      "correct": true
+    },
+    {
+      "index": 24,
+      "question": "What type of transportation is this?",
+      "solution": "airplane",
+      "output": "airplane",
+      "parsed": "airplane",
+      "correct": true
+    },
+    {
+      "index": 25,
+      "question": "The cat is looking in what direction?",
+      "solution": "down",
+      "output": "down",
+      "parsed": "down",
+      "correct": true
+    },
+    {
+      "index": 26,
+      "question": "What are the orange vehicles for?",
+      "solution": "maintenance",
+      "output": "delivery",
+      "parsed": "delivery",
+      "correct": false
+    },
+    {
+      "index": 27,
+      "question": "The company producing the device in her hand is from what country?",
+      "solution": "japan",
+      "output": "usa",
+      "parsed": "usa",
+      "correct": false
+    },
+    {
+      "index": 28,
+      "question": "Which is not an ingredient of this dish?",
+      "solution": "ketchup",
+      "output": "wine",
+      "parsed": "wine",
+      "correct": false
+    },
+    {
+      "index": 29,
+      "question": "What is closest to the tree trunk?",
+      "solution": "woman",
+      "output": "bikes",
+      "parsed": "bikes",
+      "correct": false
+    }
+  ]
+}
